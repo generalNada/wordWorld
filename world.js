@@ -168,6 +168,7 @@ letterSearchTitle.addEventListener("click", () => {
 
 dailyWordsSearchTitle.addEventListener("click", () => {
   dailyWordsSearchContainer.classList.toggle("show-controls");
+  HTMLFormControlsCollection.log("Clicked daily words title you fuck!" );
 });
 
 toggleButton.addEventListener("click", () => {
