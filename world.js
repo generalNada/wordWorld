@@ -3,7 +3,7 @@ import {
   wordleWords,
   dailyWordsSmall,
   dailyWordsLarge,
-} from "../theWholeEnchilada.js";
+} from "./theWholeEnchilada.js";
 //INCLUDES ZEROES
 
 const scoreCounts = {};
