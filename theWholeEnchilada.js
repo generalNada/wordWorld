@@ -11,7 +11,7 @@ export const fixedWordsLarge = [
     'ACRED', 'ACRES', 'ACRID', 'ACROS', 'ACTED', 'ACTIN', 'ACTON', 'ACTOR', 'ACUTE', 'ACYLS',
     'ADAGE', 'ADAPT', 'ADAWS', 'ADAYS', 'ADDAX', 'ADDED', 'ADDER', 'ADDIE', 'ADDLE', 'ADEEM',
     'ADEPT', 'ADHAN', 'ADIEU', 'ADIOS', 'ADITS', 'ADMAN', 'ADMEN', 'ADMIN', 'ADMIT', 'ADMIX', 
-    'ADOBE',
+    'ADOBE', 
     'ADUKI', 'ADULT', 'ADUNC', 'ADUST', 'ADVEW', 'ADYTA', 'ADZED', 'ADZES', 'AECIA', 'AEGIS',
     'ADOBI', 'ADOBO', 'ADOPT', 'ADORE', 'ADORN', 'ADOWN', 'ADOZE', 'ADRAD', 'ADRED', 'ADSUM',
     'AEONS', 'AERIE', 'AEROS', 'AESIR', 'AFALD', 'AFARA', 'AFARS', 'AFEAR', 'AFFIX', 'AFIRE',
