@@ -27,7 +27,7 @@ h1 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
-  text-shadow: 0 0 20px rgba(180, 160, 221, 0.3);
+  text-shadow: 0 0 20px rgba(180, 160, 221, 0.302);
   margin-bottom: 30px;
   animation: titleGlow 4s ease-in-out infinite alternate;
   cursor: pointer;
