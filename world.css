@@ -46,7 +46,7 @@ h1:active {
 
 @keyframes titleGlow {
   0% {
-    filter: drop-shadow(0 0 8px rgba(180, 160, 220, 0.3));
+    filter: drop-shadow(0 0 8px rgba(180, 160, 220, 0.31));
   }
   100% {
     filter: drop-shadow(0 0 15px rgba(200, 180, 230, 0.5));
